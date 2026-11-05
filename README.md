@@ -6,7 +6,7 @@
 
 基于 [Karin 的 Weibo++ / Weibomm](https://github.com/glKarin/weibomm)，进行 2026 年可用性更新与界面调整，尽量保留 MeeGo 原生操作风格。
 
-**[下载 1.0.0 安装包](https://github.com/ChengChihz/WeiboLite/releases/tag/v1.0.0)** · [安装与登录](docs/INSTALL.md) · [已知问题](docs/KNOWN-ISSUES.md) · [编译说明](docs/BUILD.md)
+**[下载 1.0.0 安装包](https://github.com/ChengChihz/WeiboLite/releases/tag/v1.0.0)** 
 
 
 ## 主要更新
