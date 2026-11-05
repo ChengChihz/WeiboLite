@@ -1,0 +1,1 @@
+WeiboLite 1.0.0, 2026-11-05. Based on Weibo++ / Weibomm by Karin. App UI and usability update by Chih. Uses app-private Mbed TLS 3.6.7 and CA bundle; hostname and certificate verification remain enabled. System TLS libraries unchanged.

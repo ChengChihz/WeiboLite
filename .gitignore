@@ -1,0 +1,34 @@
+# Build output and local SDK/IDE configuration
+build/
+build-app/
+build-tls/
+.obj/
+.moc/
+.rcc/
+rcc/qrc_*.cpp
+Makefile
+Makefile.*
+*.o
+*.a
+*.pro.user*
+*.qmlproject.user*
+.qtcreator/
+*.deb
+*.changes
+dist/
+third_party/mbedtls-3.6.7/
+
+# Account data and local diagnostics must never be committed
+*.db
+*.db-journal
+*.sqlite*
+*.log
+*.pem.key
+*.key
+.env
+.env.*
+cookies*.txt
+session*.txt
+__pycache__/
+.DS_Store
+Thumbs.db

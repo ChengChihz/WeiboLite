@@ -1,0 +1,3049 @@
+[
+  {
+    "path": "opt",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "usr",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "usr/share",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "opt/weibomm",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "usr/share/doc",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "opt/weibomm/bin",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "opt/weibomm/qml",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "usr/share/icons",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "opt/weibomm/misc",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "usr/share/meegotouch",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "usr/share/doc/weibomm",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "usr/share/applications",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "usr/share/icons/hicolor",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "usr/share/icons/hicolor/80x80",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "usr/share/icons/hicolor/80x80/apps",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "usr/share/meegotouch/notifications",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/sound",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "usr/share/meegotouch/notifications/eventtypes",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/",
+    "mode": 493,
+    "directory": true
+  },
+  {
+    "path": "opt/weibomm/bin/weibo++",
+    "mode": 493,
+    "source": "build/weibo++",
+    "sha256": "e95801c19e6cace300a2a7c6b1c4c8a401b9f0f7bd5d37c55ac84899502983ec"
+  },
+  {
+    "path": "opt/weibomm/misc/theme_music.mp3",
+    "mode": 420,
+    "source": "misc/theme_music.mp3",
+    "sha256": "e447c1bedb81f671db431a66cfea2961e7c84454722bdafac2e5d48c1fc77856"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/PageList.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/PageList.qml",
+    "sha256": "19a655b3cced6d1bd87e455b1298956203b078eb696338f2f963601258ac0157"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboAboutPage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboAboutPage.qml",
+    "sha256": "9ee9df8a9033f2da20d3df5ebac2f1722cef8fb9dee6e75e729170ec25275ce5"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboAccount.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboAccount.qml",
+    "sha256": "54808cf343b3276ed5976762dabb2acc1308d7763716061389372b9d6609fee6"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboAddAccount.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboAddAccount.qml",
+    "sha256": "ccee473c1db89fa998f91d595d580f995c7920ba9dca489f6aaf320e79ff4f8f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboCamera.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboCamera.qml",
+    "sha256": "3355ade0d854b993447bb6aec1fac2a63eb33980e8f00da7ba45e450af3e023b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboContentComment.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboContentComment.qml",
+    "sha256": "0636ba32c789cd96572edbd2740f126ee527283427e7dcac255578e1824b32f4"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboContentDetailPage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboContentDetailPage.qml",
+    "sha256": "cf5f9118863aa217185befacbcd345e5b3d962b64170039f109de6ea917221ec"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboEmotion.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboEmotion.qml",
+    "sha256": "2f4fb6437fbafe4be74e4f4df0baf3cb24a44b1d9775b1bd4a0d5ba7add4b2d0"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboErrorCode.js",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboErrorCode.js",
+    "sha256": "baaa538c699953b0aee2d1d852bdcf4125677285c53bc290d1479e6908a10006"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboFanList.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboFanList.qml",
+    "sha256": "874829c185b52464c01e213b31e8fb7b47d187e05946af7ec1d80fe8134518e3"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboFirstPage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboFirstPage.qml",
+    "sha256": "e397905e5c0bc1f1b0ca5dc971af8db39e25523c82d8f64c5c2b5047d8a6b304"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboFrequentContactsList.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboFrequentContactsList.qml",
+    "sha256": "8c58d611e2c9e2b51a82e968afb66225d14ea6117836f8ed4ef01ea66fff96e8"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboFrequentContactsPage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboFrequentContactsPage.qml",
+    "sha256": "cb68d6cf43762d3490c8a285e8e0c5de291e29b5ba351356041b7cbfb7e227b6"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboFriendList.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboFriendList.qml",
+    "sha256": "a9791f4b28a43ca392346f22f8733a10161b301869abc1f3ef621c67a5246720"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboFuncContainer.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboFuncContainer.qml",
+    "sha256": "11af6a33c235ee263c3b2c15ebcc457a1301c64d0be5929370614f7f795e9116"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboGallery.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboGallery.qml",
+    "sha256": "08f953ca3778598ca35e366883a97a99e2657fbf893919fbc0ecd6dde46dd03f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboHotTrend.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboHotTrend.qml",
+    "sha256": "c9f01f9662d087b62dc361437e8d2dce0a16a2fb84f1d1cb4796a29225fe08ef"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboInsertTopicPage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboInsertTopicPage.qml",
+    "sha256": "c941c2ee2315a7e044d255774fb38e1915196a490206c083b783e057db86d0fc"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboItemList.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboItemList.qml",
+    "sha256": "961de9500bb88a2710d6443ca6b5b601c7a161caeac7cb9724f3f83963cfebf9"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboListContainer.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboListContainer.qml",
+    "sha256": "f8d0d22f5eb5148fff3d7f5ef0cca877b93c3ae375d567d654b9365b57577461"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboLoginPage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboLoginPage.qml",
+    "sha256": "fb45240905ea1e829ab46773f9ecd803d49a2eee10e6ed12ddb64d893667559e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboMainContainer.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboMainContainer.qml",
+    "sha256": "594941377fe5ca5ff8df4ed10cd990422efbaf3952701ac0ac4771bd44a977ad"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboMessageCenter.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboMessageCenter.qml",
+    "sha256": "58ff464c29dc96546d68be6600f2912b92615b7be7f1944d0800971d94aecb2a"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboMessageDetail.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboMessageDetail.qml",
+    "sha256": "ec6fe585dbb0ec1a9dbbb4a679c6375cd08ed63af97e9ee4fac1b19c3ef46d0e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboMorePage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboMorePage.qml",
+    "sha256": "4753c1059d8fb4722b71498e655c7ce138a646e9beadf39ace8da26a68a51ac6"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboMsgPage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboMsgPage.qml",
+    "sha256": "3f62f9e25a6f0774bd6cd393c388aaca58684eb10253af6fd40012da2708166c"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboMyFavoritesList.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboMyFavoritesList.qml",
+    "sha256": "29404807c8bc0ee1c15b8af536245d5a9d8d0d47ec781aac817847c6a44d6075"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboMyProfilePage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboMyProfilePage.qml",
+    "sha256": "7ffda987946e2cfff9c236a8639b659048dce1a45e7a2f6cb671d51a803739e6"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboMyTrendTopic.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboMyTrendTopic.qml",
+    "sha256": "5aa5363069577e3cf838b1fa548bc5b7a92b059e45d86c2cedcecabcc0b205ce"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboMyWeiboList.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboMyWeiboList.qml",
+    "sha256": "5b257175b4596232694eea37d30dd2980c9919c54feca31d667899dc6d46f608"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboNewBlog.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboNewBlog.qml",
+    "sha256": "108c8b58fe1c083c07aaa2b0dac73c402a18cc3fe35fb54461c08cf8e5b1793b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboPhotoPreview.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboPhotoPreview.qml",
+    "sha256": "49180b0087514fe607ef2176ddf13ea602996cb7823b01a68c5bd7aca476f5cb"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboPicViewer.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboPicViewer.qml",
+    "sha256": "da1a0bb04547cae326cb0e4ce343cf5f80ce5537097097c69d47933009f48bdd"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboProfileItem.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboProfileItem.qml",
+    "sha256": "72aa9bcd3019b18d3e19ab174d1f9169bb6611ce41db023d24570310f5e195aa"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboQMLCommonMethod.js",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboQMLCommonMethod.js",
+    "sha256": "34d4cacc9077b94f610c3c16a658bb23ae7bd2ecd6bf9c04ac116797de7fcb9c"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboReadMode.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboReadMode.qml",
+    "sha256": "612dc45639b3602c303ccf328efde584670959c5620be51df3bdae2f04b4bebe"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboRecentTopicList.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboRecentTopicList.qml",
+    "sha256": "1a5690e6157c917d0967dcd5e3481531337f7e833aa07a5d534561c184932f6e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboRegisterPage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboRegisterPage.qml",
+    "sha256": "d80b2726bec6f8ef17af8fc4aa1fcb21ceeb51e12e91a22a2ff815d18383d549"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboSearchBlogPage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboSearchBlogPage.qml",
+    "sha256": "742451707ef038066e622e7c30215f26dffe2934f085e50a5dbe6243e28fff4e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboSearchContactsList.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboSearchContactsList.qml",
+    "sha256": "b74e9df39223a13911ba3a68b96a2e8d01700244a6eda27eb8bdf50cbdcbe05e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboSearchContactsPage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboSearchContactsPage.qml",
+    "sha256": "7a0dcff4c35d2d15af42d59470fc1df808f6f778fef7e23385f5b495fe246891"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboSearchPage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboSearchPage.qml",
+    "sha256": "20504786a97fd42368c1f78a351af9a17a4647c5f9eb81b776328ed295dd8fdf"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboSearchTopicList.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboSearchTopicList.qml",
+    "sha256": "592ceea1bd0b81df793d62a94230f2a229ad3301a5c0fc9c607458c8d4e96d26"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboSearchTopicPage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboSearchTopicPage.qml",
+    "sha256": "6b1c8b1eb0e299a7b4fd70d547a58ab1c94fdd93eafb80cec6d0fdf5a511c80f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboSearchUserPage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboSearchUserPage.qml",
+    "sha256": "c8af9e047537fbf1968dea789b20a4bd67aca739310d608b2c60386ff86dbfc6"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboSendPage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboSendPage.qml",
+    "sha256": "1d4c070b4ce472fc528dae64b15a2c06f549a22ba32d95ebeefb400ff4d7dc86"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboSettingPage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboSettingPage.qml",
+    "sha256": "caa20c1cd6644012dc9fa9b2553aed80f926dac685473c2628bd753815c95573"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboSuibianKanKan.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboSuibianKanKan.qml",
+    "sha256": "1373750655a59cdc34884399883bee11ae215e11790d2a2caff1fd9b0d914dec"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboTrendsBlogPage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboTrendsBlogPage.qml",
+    "sha256": "b5524f7533f1c4e0a79c9ade90af23a3d42ba274bb64c007a33dcd10b27ca72a"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboUpdateProfile.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboUpdateProfile.qml",
+    "sha256": "e84ae379ea644251cabcbe9ca7a1d8f5f44f403f5c3a7f55ad409c0a2f4ca24c"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboUserProfilePage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboUserProfilePage.qml",
+    "sha256": "3ec80d01f6d6c561d61666c6376683a300b67f0945651d7d2a2f4d80d412f7fd"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboWebview.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboWebview.qml",
+    "sha256": "2a9b9165c4659870cd5a8914b295c132af5cca12e28df9940527501e1aadbb2a"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SinaWeiboWelcomPage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SinaWeiboWelcomPage.qml",
+    "sha256": "58ae02fe87f7019439c1a83d62d163512eb7acb5f76da7239dde4a4cc53d4e49"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/AccDetailPic.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/AccDetailPic.qml",
+    "sha256": "00672e02e326e8aa0476b722b4b0ca1185755d13c8ef5a3db2d848fe646b6686"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/AccIntroductoryBar.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/AccIntroductoryBar.qml",
+    "sha256": "bec24d7794f9c37b9ffc07a78774ae19bec4f2d236002dfcd64e6ee80bafa086"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/AccListSina.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/AccListSina.qml",
+    "sha256": "d4cc9b58d5ceffb7c191aeed1cef67c2c0065cfba9824576c56d13abf1e1705d"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/AccOviMap.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/AccOviMap.qml",
+    "sha256": "d53475e00e97081f3cd3f4b0d9176ac4035b6aac950160d65a77757c37679ad1"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/AccSearchBar.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/AccSearchBar.qml",
+    "sha256": "dc1aa513f93b53556b4b5a7452d0ef77f88356ee268bc19b19b3fe700e589aca"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/AccTabBar.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/AccTabBar.qml",
+    "sha256": "0a760881370a2c7fbcffbdd9ecabd2003a722cf43b9869eea1ddb4d4d849e346"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/AccTabBarItem.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/AccTabBarItem.qml",
+    "sha256": "2c3713109764468b0d86e24501b74142a318475b83bcd16b788bd02578645673"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/AccTitleBar.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/AccTitleBar.qml",
+    "sha256": "43c524d4e8c8d4b285f330256e64268fe24cd4eaca835c896fab782a37d5d191"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/AccTopicItem.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/AccTopicItem.qml",
+    "sha256": "b8d0e933c78f0edcb9f3d6f4467d28f82901ac821c6cf29b6bbe2a5b6be3918c"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/Map.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/Map.qml",
+    "sha256": "736de340c7a0f5eb905e3bbc70f540133aff47fa9e31069d40dc27d9fa44e9b6"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/WebViewButton.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/WebViewButton.qml",
+    "sha256": "4c51b358d09c7cee5324c5b08ef293c3c3c406af7e17b28a530ae4bb022b414b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/WebViewFlickableWebView.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/WebViewFlickableWebView.qml",
+    "sha256": "68989e0a0064a9ae3fbc82f4b4c003c24c43b97edfcf3d25aebbf20c2e6a738d"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/WebViewHeader.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/WebViewHeader.qml",
+    "sha256": "acc5b6a691be7783064ccfb132b9a4ecc0869a58f033ea757136e0adb20a2d24"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/WebViewScrollBar.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/WebViewScrollBar.qml",
+    "sha256": "afe274fb982519bc418c4b72b2f6c05d4e2be1b2e135a23d9df1041cac0a63bb"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/WebViewUrlInput.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/WebViewUrlInput.qml",
+    "sha256": "158cb69dbe7425b6d6d0fe510fdc05952b9e4a248fdec290968973d3ef6c84af"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/@ me.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/@ me.png",
+    "sha256": "e64cd9ce9e2b0a177110b92547e923592c032cccf77ddf9ee8f6bfe962353b29"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/@ me_press.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/@ me_press.png",
+    "sha256": "47cfa63f50240c2ad7bae3f5e4ce29d0a1f5f6c43428e65aac84a3f74427ecd6"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/Account Management.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/Account Management.png",
+    "sha256": "e44a5e58f1b17baf8dc48b4bacdf02bc17f64e893623dc2c5fe8296598472abe"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/Account Management_press.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/Account Management_press.png",
+    "sha256": "b60ea84248488b689ef66c4404b29d656fdb372e2e4a43f9c5c553ffc4e3d14d"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/Attention.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/Attention.png",
+    "sha256": "cfb7030a7969bea8554d872a66c1f0ca5a31e4dd15d38a935cd4901c5c28f8b2"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/Cancel attention.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/Cancel attention.png",
+    "sha256": "eb2addb465b76489978ea1849fd934f31db96b74f91bc6c179b93c99780c204a"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/Collection.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/Collection.png",
+    "sha256": "5cf564f63781b78e045786792d3b455b6fb7ce577feb5a3867366881fc0885be"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/Comment Box.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/Comment Box.png",
+    "sha256": "a3264803ac1d6e8f8e1a54f72b74a624a3f0329271b031e7169dfcfc2a3a0227"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/Comment Box_press.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/Comment Box_press.png",
+    "sha256": "7f2c006a7344efaac89ad3999e8c1b0f8df9e206b24f96b2e3134474684de6a5"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/Digital_Tips.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/Digital_Tips.png",
+    "sha256": "32314d1aef8784380c4ea5e017014f659e8f3519493461f5de7f9af35edcddf5"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/Drop-down arrow.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/Drop-down arrow.png",
+    "sha256": "eda00edf81adb3c7b61c8d1401c7b65dc98c072ce7b4c35079ecf2385e887f12"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/Fans.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/Fans.png",
+    "sha256": "8a85ab2e42f9ab4ff4996f7de6b389473f42be86e755d543d7ac321efd6caa15"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/Microblogging.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/Microblogging.png",
+    "sha256": "65d4ed1d8761928c4f5e84c4af89864546130109159354edda8a72e5e83b6049"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/Private letter.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/Private letter.png",
+    "sha256": "cb0892f6c3ebcc5dc7568c2eeed827b6f7745738f04c22c3d63aaeb32cdae2a0"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/Private letter_press.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/Private letter_press.png",
+    "sha256": "d9ce6cca1d6aa33d521f768ab264f57e53a57ec21e80707556dc98ffdb916688"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/Thread.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/Thread.png",
+    "sha256": "cf4a2b9e20120ca9a3b835d87c0720ebeca32e359c4edf6596a4ff031bb26190"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/Topic.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/Topic.png",
+    "sha256": "3b6ce8120a9a04dcde3de4764cc570174fd99cfaca2062104899d542de4176a7"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/Zoombar 1.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/Zoombar 1.png",
+    "sha256": "a083b56e85cf531e578ceb66f7a32f7ca0a03673bc590cb4f729528d7aeaf437"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/Zoombar 2.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/Zoombar 2.png",
+    "sha256": "f39250bd3cd2ac7cb449aec75b595c8ed94b973572a915c2d79dcaa8152007d3"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/Zoombar 3.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/Zoombar 3.png",
+    "sha256": "45ecb2e00563b5dfffc37b55e7766f3a8e361acbd5d35a388955e2f68f8c2f12"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/abou_icon.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/abou_icon.png",
+    "sha256": "059f1d0a21ecd3b1b3bbf0f74df6d23f4d07bc955bd9c9888791acdb8e5423d2"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/about_sel.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/about_sel.png",
+    "sha256": "93285421ca44a74b0f0c1dc46f575b8ea1d11c7c6862999ace55a995cc065aab"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/account.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/account.png",
+    "sha256": "771fa185d81bfd4e08f84aea58a364c04bc1bf94f5620691e4c4fea14330374d"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/add.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/add.png",
+    "sha256": "49530cd2e8c4e23c97ad6bd506d7a644c62b65c680be9f37c325c7efb7408dc8"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/addLocation.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/addLocation.png",
+    "sha256": "053304abcb17d9ce963c5d32a6e74b5de6ddd8f8b7b92f6918a7e8508d86e152"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/addLocaton1.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/addLocaton1.png",
+    "sha256": "07758003815b19c8fca99c2aa08a36b5b73347b70d305edc776a2fd20ecda82d"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/bg_comments.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/bg_comments.png",
+    "sha256": "05a89151c6dc25d9378c9afa3690833754447709d89898d12d991f5a409f1690"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/bg_comments_bottom.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/bg_comments_bottom.png",
+    "sha256": "4a2ac5e9c0754ea9ff3b46e43658f3098bb8f12e7b08041f0347b3ab8c64ae5e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/bg_comments_bottom_01.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/bg_comments_bottom_01.png",
+    "sha256": "c378f8782cd1b09d4537a9c1e28f3e217c41b6d7c975f4166e3ee003aece0c3a"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/bg_comments_gray_top.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/bg_comments_gray_top.png",
+    "sha256": "5e673afd5fc68c68801744ff8d803442e3013a33b173e66b734e12d60b189803"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/bg_comments_landscape.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/bg_comments_landscape.png",
+    "sha256": "1bd4c3949f24ec21d04b40c47ad8f2004cbc4802e92869ece373202f313b6d3d"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/bg_comments_landscape_bottom.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/bg_comments_landscape_bottom.png",
+    "sha256": "ec116741e0e04375b3c86eda1a41a72315c40d3a8fcb755d44d3ca994dd3b460"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/bg_comments_landscape_top.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/bg_comments_landscape_top.png",
+    "sha256": "2cbfdbf6213e3d996d99c6c3b3def2164824576107e0f2fe601633efe663c618"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/bg_comments_top.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/bg_comments_top.png",
+    "sha256": "41baca7b0401bce6a37e88336b235379cbac1325404a0939c52331487134f050"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/bg_comments_top_01.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/bg_comments_top_01.png",
+    "sha256": "e47526b6e0c0a7221d6ee2770e47dbd4ac5bd2f2cd70787c4fb1857f8ad2931f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/bg_item_info_single.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/bg_item_info_single.png",
+    "sha256": "baadc3e1c23c5e60618069c182c66a09447f2ac9dd847727dbbf6a2e01a658e2"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/bg_item_info_single_blue.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/bg_item_info_single_blue.png",
+    "sha256": "df56be1a1c2903e6ff2c4bd18b913b869b3f4920c4a1557ce2fa2d338f0c0d0d"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/bg_item_info_single_landscape.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/bg_item_info_single_landscape.png",
+    "sha256": "a6305179b5eab94f329cc79c80404b55189a196eeb04f52043cdcc60b87b4830"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/bg_item_info_single_landscape_blue.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/bg_item_info_single_landscape_blue.png",
+    "sha256": "4ac81f1bad35d466a02739f7368d5ba7fa2911df31c51ba49fb97650599be482"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/bg_item_user.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/bg_item_user.png",
+    "sha256": "8786f7cab9c24a8f02b60831f5a426d2e86ec5d4f72a0b109c9085be6ac2acce"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/bg_topbutton_blue_home.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/bg_topbutton_blue_home.png",
+    "sha256": "06fe3b4a135a927e5d26d7eafd9e4fb184d08647944aa626ce8f4d22f04e56f9"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/bg_topbutton_blue_updown.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/bg_topbutton_blue_updown.png",
+    "sha256": "236e81c933076836601d025dc4a4e5eb2266ed1222fbf23747f8ad0fec2eaea6"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/blog_loading.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/blog_loading.png",
+    "sha256": "fd65dd54c611721dc2c98526eded6aa54eb7abd35e34f1261621c0cffbf70b29"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/blog_loading1.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/blog_loading1.png",
+    "sha256": "51a8577b118cd7fcde7551f399b8ffd6e8934e86c518c92a13ce80e692c7a9ab"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/blog_loading_landscape.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/blog_loading_landscape.png",
+    "sha256": "e7983f23b4938bc5e655f95f92be5b555ad45b9acc5a75f024d6408db6b5c600"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/button-left.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/button-left.png",
+    "sha256": "f19ccc754d7a988ce4010a3c4a322cf3b25979853ccad3984fc3b5a12071b486"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/button-right.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/button-right.png",
+    "sha256": "2f9bb63a9f917e9bf5ecc94bb1236bd0f66e7b905c97a94fa79d60ef84070b44"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/camera.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/camera.png",
+    "sha256": "ccc3f7521e0ea71acf94e840fc122cfb7ec2e7e892fbf46d9d70c01cae0d4ea7"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/comment_bg_bottom.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/comment_bg_bottom.png",
+    "sha256": "f9f7a1f1784a668b915e49075394c47eba87c7b7fe640bd1215d3d2ba8ab5c1b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion.png",
+    "sha256": "8cb8bd6e4ab87c837c603bdec8459b1f267c848ecbcce05769933478cd32fc53"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/aini.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/aini.gif",
+    "sha256": "daf4717dd41ccad85687a4fa7bb72e9c0b5ac1736a5add683ef630638db16c03"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/aixinchuandi.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/aixinchuandi.gif",
+    "sha256": "5c88cf20a4ca6f8c90688fbb24d90686dcd1cc39e57d46656ed1dc912af17aad"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/aoteman.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/aoteman.gif",
+    "sha256": "ac73000b7c402dc381f14a4bfe8bf1a927aeb38abebbec7fcff89c299e809395"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/bishi.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/bishi.gif",
+    "sha256": "46c301418b4984734ab312ade01ea6502cefd146c51e4b41060771de0b876ca2"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/bizhui.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/bizhui.gif",
+    "sha256": "3440398834ffa4dfd643f13b517384d74bddec7625831b468bfefe049388eacf"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/buyao.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/buyao.gif",
+    "sha256": "85fae7a6d5142b45812068a665db5b3adb898a3348b0445439bb5553c35292d7"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/chanzhui.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/chanzhui.gif",
+    "sha256": "18d57e9e15b7d9090ea952eda2d2c45673c4f028fd437f0a8b1d471392e987e3"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/chijing.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/chijing.gif",
+    "sha256": "6f4eee300bd948831953c077e842d5175c9008eb542a7158e9f890338a8d78d3"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/dahaqi.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/dahaqi.gif",
+    "sha256": "19f832cb7822c08ec8d63578eb2225ef2d9894712ba0889f07d7472e8b099b3f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/dangao.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/dangao.gif",
+    "sha256": "e516d8bead4ffe3ccb459ba22ada1e6417ee5a27184fe9a362e327d63cff3254"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/ding.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/ding.gif",
+    "sha256": "cc5eefc74684166c5948737296f593543900c43a8e05df8da9b91b2265cd88ea"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/feiji.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/feiji.gif",
+    "sha256": "92e3d0c5926682fa2783337be1c64e0e7c2e8539896767342a3237f75bfceb45"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/fuyun.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/fuyun.gif",
+    "sha256": "d31ffddc87aca17bd9e04e7061bd5aa27df423e2110c896df6f113099c6ddfa3"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/ganbei.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/ganbei.gif",
+    "sha256": "32e57ff011e23adc3199bb6e51bcac075c6c8e88ab5e2f94ce8f793f521198b3"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/ganbei2.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/ganbei2.gif",
+    "sha256": "32e57ff011e23adc3199bb6e51bcac075c6c8e88ab5e2f94ce8f793f521198b3"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/geili.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/geili.gif",
+    "sha256": "6139f07c3732de8d1ba15ee11c8e1239b29923c3dbf924403a88e7474016fc87"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/good.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/good.gif",
+    "sha256": "8db116b292b02c9652845923e592a0440beb7e7bdca1c1abdd3ff0acd3992f49"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/guzhang.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/guzhang.gif",
+    "sha256": "f35ec3933cbd5132d42697cd85d5d1a478cf1daf893551e96cb727c007a077b6"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/haha.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/haha.gif",
+    "sha256": "d347181b1729487147ab66e6a067b6a45de3fd517fa776cfa48dc39b6bf48566"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/haixiu.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/haixiu.gif",
+    "sha256": "1067713fa19ba71a289f9c3ceee5c0f70a265a717371951c89603b13fb24bd6b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/han.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/han.gif",
+    "sha256": "635b279fa9f2e19dda4f848b2be438faf9efa280c82b25488f8b860cd8e218da"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/he.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/he.gif",
+    "sha256": "addcca90e2c0171bf9e5e89f5550909c20e8a8c50bbf896130674fff109a54ab"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/hehe.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/hehe.gif",
+    "sha256": "9cd98d3c02e4386649b640a7d0dddf2232af38db831d26e5429313512dd1d30a"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/huatong.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/huatong.gif",
+    "sha256": "50e38e1d76a7563e5556bafcb744ae6e971e44dbdb9c0a984c3a288356f82b10"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/huaxin.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/huaxin.gif",
+    "sha256": "12b3c6cb0d1323d487f7e15319bd3afcaa8d9e831ed5a9f21c9687fe609b6dc0"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/hufen.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/hufen.gif",
+    "sha256": "d27cb870d3f0b1dadaeb145ee422bf42e2b4dcf614b8533415201d20e42ca21f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/kafei.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/kafei.gif",
+    "sha256": "2cd409d5359468cf0a74a6bae32ad9a08e1bafe76b1e5791b6d78b6c2ee2f74e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/keai.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/keai.gif",
+    "sha256": "f158183be7d45da86804431278c66777d4fe8b09ce6f953ba6ce001a27aa3250"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/kelian.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/kelian.gif",
+    "sha256": "4d8bf2af67946c22e5433e107ecc9c241128402ddd2fe659b046c71c1173eaac"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/ku.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/ku.gif",
+    "sha256": "ac93d75c443d2a2535f834f9980e15c9ec675e4d7b1802bf5beae674907a49a2"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/lai.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/lai.gif",
+    "sha256": "aafb0db0592f90b4a703678ce1c5a0bd41092f03fa55faa04e1b79948cba2f03"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/landelini.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/landelini.gif",
+    "sha256": "3f9ae175830f0cd025213cc146e2417fefd0609bd36af8d82a594399ba59a3af"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/lazhu.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/lazhu.gif",
+    "sha256": "fffcebaa5a1ec8b69ac753b6be1a1abc9baaa76738de95f5416936ef4cdf1486"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/lei.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/lei.gif",
+    "sha256": "15dab28d1c707ea93e1d566213c227262fea81b94f4c2cb8438313937ccb2fa3"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/liwu.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/liwu.gif",
+    "sha256": "815d0b9c6bb35428db6ce1039cfb7b448d5fe2d9c28603b33594793afd67f56f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/luoye.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/luoye.gif",
+    "sha256": "1413d7571f05f0b707ca128c30780dfca6e76c6824e2a77d8e65011661664d7e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/lvshidai.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/lvshidai.gif",
+    "sha256": "8fd998608fb3daa6e7e9a7218fbf7660fa0245d0e67ea4ee52036c829097979e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/meng.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/meng.gif",
+    "sha256": "8e338758d253d2f78d9adc4edfed18fee48e63efa2357247c378aec96b8a3a4f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/nu.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/nu.gif",
+    "sha256": "4a61265c4a4187c23eae7f492b61f3ff837ba4c51374fa8db172c520b022c7e4"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/numa.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/numa.gif",
+    "sha256": "cb43149391a4e706b1031adedb609461c97c793e7fc818b44922e371e419ea9e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/ok.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/ok.gif",
+    "sha256": "8ccfe82e7a3a448daf5ed9db0ba23501d2d565e6e9ad27203e20bec94f277f82"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/qian.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/qian.gif",
+    "sha256": "c065186d4b2e8499f6044327a61779c6076707369442d693816ebea78b997a15"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/qiche.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/qiche.gif",
+    "sha256": "3f427d31b72c0806609782e9aab4ffdc3dcf0e73c5e5c5ec0d4bd2d413369662"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/qinqin.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/qinqin.gif",
+    "sha256": "6cf7a5fddf709f3ce25aabeec5e3e4e8a0f27129da565002f8e20466948b4572"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/ruo.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/ruo.gif",
+    "sha256": "81cc74d7be6ecb6e41cfe631030d3586cb95e0afdde86670d72f492ff28a2e09"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/shachenbao.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/shachenbao.gif",
+    "sha256": "fe08210b13273157c72f00941b8857f4c5011b87a804d2a41a0d0277700ab6c7"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/shangxin.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/shangxin.gif",
+    "sha256": "55bd2427b78b2bee63f258435ab64f178989157345c5c27cecf9d1c9357f057a"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/shengbing.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/shengbing.gif",
+    "sha256": "b6acf84dae94c427fb2a8d95c42e1fa9491cbbdc413df1f489d65efe97c1cf0b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/shenma.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/shenma.gif",
+    "sha256": "e080c38f34e44709235fb05eb582678eb601b9829323fc23d95bc8c51b436032"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/shikao.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/shikao.gif",
+    "sha256": "ebc030fd8d8bbc6a7f7a238e8df4671bee99d267331941a31cf49f8015fa99ba"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/shiwang.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/shiwang.gif",
+    "sha256": "a6eb23905d3789ab64e17c5ed68e0d7fadafe8b50bbb1fddffb3749f1507eaf5"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/shixi.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/shixi.gif",
+    "sha256": "55283f8e9513c54fbb98d3a730e2c31a638b9506cb1bdf0bc1e568bdf24424bf"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/shoutao.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/shoutao.gif",
+    "sha256": "18152e7d2ac7869fb65bad8f49b2bfed435d75aaec50a4ec3fc8329988ceff5d"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/shuai.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/shuai.gif",
+    "sha256": "f1b45d03e2fee7f2114864850e13a263c50adbfbdc79cccd24ecb054e254f699"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/shuai2.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/shuai2.gif",
+    "sha256": "5b5914176e7fdc04045e285b125db463803c53e429904038411051bcd3d06db6"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/shuijiao.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/shuijiao.gif",
+    "sha256": "0f506fbd0b8b18b0b223208559edb01b41144b38e67169a7e40887aff02cbe3a"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/taikaixin.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/taikaixin.gif",
+    "sha256": "c17ca1861043dfb76198604ab4b76f205f57c0b478384aca1731aa32b709fe60"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/taiyang.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/taiyang.gif",
+    "sha256": "59a3fc647bc7f192dc3368060b9d20928c99a045e39491b92fa2460f97b3c58f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/touxiao.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/touxiao.gif",
+    "sha256": "cbdd970a4a14467a69c4d62e36fd9a2fea1b2b1aaa07c4f58b14086f3ba6fcaf"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/tu.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/tu.gif",
+    "sha256": "488cf79a7d758e4a6e295c70ce40d2cc0de58436e1558d5cb61686e26a47d9f6"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/tuzhi.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/tuzhi.gif",
+    "sha256": "4f7375e9129f9397a4846c04826fb1c4bb82f4cff8c1fbce894c309143ea20d2"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/wabishi.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/wabishi.gif",
+    "sha256": "2479aaa63486bbaca1594db1cbfedbc66193d240c57b5fbd759c6d10a8d7e29b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/weibo.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/weibo.gif",
+    "sha256": "7dbcb8ec41567add663ee9a5dc3a2fae10412f1c9d743333ab750c8be003f129"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/weifeng.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/weifeng.gif",
+    "sha256": "09de758745b4ff6fe15ba6d96220540fb16874ad7cf814e0364aafc294bab58f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/weiguan.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/weiguan.gif",
+    "sha256": "8a6483b8885ce8d49c68c0ba1beb3f12c2b658628133ebc21c6d90b21faddc7a"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/weiqu.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/weiqu.gif",
+    "sha256": "d85daa90e6557b04e37c982db248605ea08b6409d906d76b37c2b89710825bc7"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/weiwu.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/weiwu.gif",
+    "sha256": "a76a1025ee0ff3d1d137b60dae658950dad030375dfca7dcc30d7d8a255014c0"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/wennuanmaozhi.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/wennuanmaozhi.gif",
+    "sha256": "9aa465da5e7ff0a6cab1adb2564c6ed78c23e12912302b39750461263f702e3e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/woshou.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/woshou.gif",
+    "sha256": "f8dc7f8be813917846b47ac6c3b86d38c00fff047863ae474e6295a86a5d22b9"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/xin.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/xin.gif",
+    "sha256": "af16b68d1b3b1c87ab44617cd71b26ce3f8dea5af7b48dcb69b9434d83822a43"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/xiongmao.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/xiongmao.gif",
+    "sha256": "09f1cfe95a372704a30a2bccd4779bd1e674733ec5b7e65e941465730a57988b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/xixi.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/xixi.gif",
+    "sha256": "d0dbf86665ffbc2999516852d06f507f3b32343fce847f5105b028076a990daf"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/xu.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/xu.gif",
+    "sha256": "b7fadc10b9c7804b2985fe690df40e81e54eac4ce66f1c021ffaa16f239be7fe"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/xue.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/xue.gif",
+    "sha256": "312a48df9d6c9a085154a99dae1f0fbe11d2f47060320f474d49e852bd751d81"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/xueren.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/xueren.gif",
+    "sha256": "1346fe5054ad7d125ed40aa6eba8641fd60e3bc2cc94057b16f84d9751cb85f9"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/ye.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/ye.gif",
+    "sha256": "45f311ad14ca9331b9997060630fdd0e7f6d4ca60b2c0a8f01f6d83c52981b2e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/yiwen.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/yiwen.gif",
+    "sha256": "dbafef53e3bd3a09bb14b445eaf71bf85d6e7349ae202eb0b8cbcbed2d98e0e2"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/youhehe.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/youhehe.gif",
+    "sha256": "5400c6652c9aa2028a5f9343b92a519beec753c3735b8ef8d4f1fe8fdd2e7ff7"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/yueliang.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/yueliang.gif",
+    "sha256": "0cd3781cd605500d6064aa8f43c538403da77693a0b5a6c35bba392619c81bdf"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/yun.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/yun.gif",
+    "sha256": "582bbe4f1dbd31643d529b8326620a57a8f25a08beb6bc9ea69eeeed71161cc7"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/zhan.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/zhan.gif",
+    "sha256": "1e4f73c8a2f894e7abeeee674be2307629b3be4f8027c9cefb84ebf83de3b6f9"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/zhaoxiangji.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/zhaoxiangji.gif",
+    "sha256": "4caaea235c57a1a6ba1c2d7183d1e1cf390cdc5494926e113374da00645d9c60"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/zhi.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/zhi.gif",
+    "sha256": "342cec2d07f66446cf7e4912751fffd13a5158e463b021efb837e78c6967fb30"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/zhixingche.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/zhixingche.gif",
+    "sha256": "54145ff5760f00f74934f5d4eff8cbc50a3a0d94c1f1d800b808960045709136"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/zhong.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/zhong.gif",
+    "sha256": "60fdf5266d76af1a5d4bffb6a90804c057580a023d57c40560e7b3f4b3ba7ad7"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/zhuakuang.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/zhuakuang.gif",
+    "sha256": "af338ceb1c57a27c3348aa9f57901c1b97c44314d67a9c2ae70842be209c6c1c"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/zhuoguilian.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/zhuoguilian.gif",
+    "sha256": "2512573c9918cf322774cdcf2d540a1a3761c0640c1a705d6e901a9c87e00eab"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/zhuohehe.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/zhuohehe.gif",
+    "sha256": "627ed01c617275688124fe5cf465e25fb855bf0ac3e4ab3eacab5cd37a9e5476"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion/zhutou.gif",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion/zhutou.gif",
+    "sha256": "501b260775c45a18c10c19c9d3582e5351230e39e4e4987c3d6e37659f79c1b8"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotionbg_land.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotionbg_land.png",
+    "sha256": "353a9d4313606abf950fadf7735f480e7e8401ff1917e7ccc2e475b6272418a5"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotionbg_portrait.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotionbg_portrait.png",
+    "sha256": "fbb8e6b8a0d02fcd09820ab1931dca4ee3bb5e94b268277a3e4e55a5344f6628"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/flash.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/flash.png",
+    "sha256": "998d1095170b276a59489220d9cf2645524487923b471143244d1c8a546dd830"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/handleItem.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/handleItem.png",
+    "sha256": "880f2134798ea9d738db577ba986672c2392c60cf6d757eb8806766c6fe50e79"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_VIP.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_VIP.png",
+    "sha256": "78331c9e7f9bf6c718191d3160bb3b4af475c090d15e7339daef008e7c886bc3"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_arrow_gray.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_arrow_gray.png",
+    "sha256": "bc7bac282323917d751da1aaf9b6ad7259ab7ff5eb5af8b3664450f60282d20b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_at.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_at.png",
+    "sha256": "ea3da9f47d848626a27b1255e06d6d135fe36512e2fd842320df2b4d89cb5b9a"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_at_white.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_at_white.png",
+    "sha256": "59e15cdc13b1699de06dc574498eba8ddee0dae6f339fe93ba10d5e6865b991f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_back_orange.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_back_orange.png",
+    "sha256": "86f047593bec5339c6b68b638b17e05f5ec24c0738867c8a7ce2460035f866d1"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_cancel.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_cancel.png",
+    "sha256": "848585d7dee30350211648ab0ce4e2608723abd339d9471352436d6fed34c594"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_comment.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_comment.png",
+    "sha256": "9d849f151508cc9f6996b19341d89e99243e8dc24d176ff7dd0724f7e4351616"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_comment_green.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_comment_green.png",
+    "sha256": "916d454fb93857923598218f26d227ec8e962517092863fa9ae2bca593bb2417"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_delete.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_delete.png",
+    "sha256": "b5d1a6036b5743748304a1ba56e46501c8a0f4876052188ece2782513b2e36b4"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_delete_orange.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_delete_orange.png",
+    "sha256": "057bd794120f2fbf461333c042aadb3955b0406882b38af5031c485d87b03c45"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_edit.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_edit.png",
+    "sha256": "6f844c860e719e53aa1c2cf32717bb6c5a595d52e7ed7524fbc468a4c98b1fb9"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_forward.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_forward.png",
+    "sha256": "12880585fbac5c1816889b26a82186e870ecffcbcd32cc4dd4e558f21f49d3a0"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_forward_green.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_forward_green.png",
+    "sha256": "52071702ec9d54aa3a8fd4d05e5e5f996aa1253f91d9c25c63aa9e26ed15e6d3"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_home.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_home.png",
+    "sha256": "eeaa744b0fd493ce618f2e536b60098e14cea281be03704e15f6a04acbc585ce"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_home_green.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_home_green.png",
+    "sha256": "44eb09b8772acbbaf3d2c0c1332c18706dd28598809e8c06af0a943aa5882d8c"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_home_green_press.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_home_green_press.png",
+    "sha256": "3014259c1d3a8c8791ca611ce8021128a2df037fb774688e2024dda943a8d25c"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_home_white_bluebg_50x50.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_home_white_bluebg_50x50.png",
+    "sha256": "7ebe890291cc34e11f1dfe94e477e9a5f6168660ea4570d4a82ed85ce9799f14"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_message.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_message.png",
+    "sha256": "ff34333c44890e8f8a167892960574c3dd1fb919344b41317434a1558e8a75bc"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_message_nor.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_message_nor.png",
+    "sha256": "c3bab77ea479d0768d3d11fa10a658564552b8e0779a2b1ef17770ecdc82c1b9"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_message_press.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_message_press.png",
+    "sha256": "a20b64e0b4acfa610353efd030a078f3062d7b6bde2e8ba4e346d431c791ffd8"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_new.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_new.png",
+    "sha256": "a57b35947ac1c2d6e1bb1345637d51c56b4edbbc4732f02b602040bc281a57c0"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_numbersign.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_numbersign.png",
+    "sha256": "a9940ca95a428d36b44fc3c00788d955ade9376aa6456459fcdeff74e1969209"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_numbersign_white.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_numbersign_white.png",
+    "sha256": "90bf7a1562819bbd818726d99ce7043ff4c78e63492579dc1a685e93c10300ad"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_phone_sm_green.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_phone_sm_green.png",
+    "sha256": "df8a871c448706ae0c643c37cbfd5aadea141e94f68048df819f24305cde8bbc"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_picture.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_picture.png",
+    "sha256": "70cdb3640fb4e3ff5b1082bca95351210a2f7585c48c0d48ceb8c7fa1bbbf697"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_picture_blue.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_picture_blue.png",
+    "sha256": "51555b02303f4bc5897449c1d9f2ed3d8782c0889fe3451b2ca7a52ecbebbbfb"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_picture_gray.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_picture_gray.png",
+    "sha256": "bca67ada15f80726e138a8ac0d8a64dcadd99de16e3c5527a1e109513922aa65"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_picture_white.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_picture_white.png",
+    "sha256": "b6f94bf1d2ab3d4d5f5921674b56bece87ca19022e88d384467d2b72cdb1d91f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_popup.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_popup.png",
+    "sha256": "e58a190b93c23a47f545200bc551d54ee98581209c3eb0fa016e8bc0d16d49eb"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_refresh.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_refresh.png",
+    "sha256": "0cadae3d8639f30673eb098ab61db0ac15c548c930615e89454c2f432ea1b14e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_user.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_user.png",
+    "sha256": "ca58d68f2e5c1dd26e805ff0ca89422f9d4de015482fba7f90d24bc207e1401a"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_user_sm_green.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_user_sm_green.png",
+    "sha256": "0a1088e218076d4b5dfa756842831f57e01df420636d4428619a08ba1a816d61"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/image_loading.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/image_loading.png",
+    "sha256": "bc73f8cba391141fb98a70ec02f030b2942293eb6cb5c4734762ce0badac9094"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/keyboard.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/keyboard.png",
+    "sha256": "1279f999cb74feb77bd7d8bf1a04d02229c5dda3f8932a7b8b4f53e9dd4a778b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/line.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/line.png",
+    "sha256": "46eecf4476004e657eb442b9b1abe758c65e73d01e0e068bccc29d86cc8189db"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/located.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/located.png",
+    "sha256": "96da2126dc5923ecbd3880bf40b71baaf6bb2137b5d25f10aad785fd1d4a3410"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/map.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/map.png",
+    "sha256": "45c8a88fa4be2f3c462c6174ebee2455b394ff149a01f433511a9e7140d65eeb"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/mask_userimage.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/mask_userimage.png",
+    "sha256": "8ffdda1ff7829e2a42cfb69f8be38c455d2f671d62fcfaa0de8494573103e542"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/mask_userimage_blue.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/mask_userimage_blue.png",
+    "sha256": "368a4520fb3d3d44ee1ba3df12f7e52015f2390036f61b89cebc2c739d4f3182"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/mask_userimage_gradientbg.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/mask_userimage_gradientbg.png",
+    "sha256": "efed85eaf15b75306c3a52858ee73190b1444eafb4a5bbb85d47b391076c638b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/message.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/message.png",
+    "sha256": "f926da8b90afe5341e2667122f19bf94a3cc3d2fc7c7b40d6363d8a1e2257b21"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/more.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/more.png",
+    "sha256": "5c3724f280dd442eb9318154506a1c97c1e0555b847db16407ca475459af4c94"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/readmode.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/readmode.png",
+    "sha256": "86a787cddae1a0b17dd0ef4e9bb0b73bbca3db51170d0753fabc9e12f578c000"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/refresh.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/refresh.png",
+    "sha256": "b8d330725c7e17ef6441c32aa840433cea87372f45f269745fa26b54278999c0"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/refresh_blue.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/refresh_blue.png",
+    "sha256": "c9ca2038f400640f8e908510702846a1910138c88ca38b03a53550271f693ffc"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/refresh_press.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/refresh_press.png",
+    "sha256": "b55d52b02ba012e34166f336301dd8bff4f332493277ac62a0a32e3cad0ab30e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/refresh_press_blue.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/refresh_press_blue.png",
+    "sha256": "a8baaa90ede0f0cd5e65a8289c5ebce615356884ac2cf604170ea71944219e5e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/refreshtimebg.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/refreshtimebg.png",
+    "sha256": "42b6c6bfb6e4b6be56ac741174fc37b7fcee5f5000245f2fa829c5e654fae2c1"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/restitlebg_green.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/restitlebg_green.png",
+    "sha256": "a73eacb3c5122e3ae43aaef070a46af0e2ab14d293eef4190ac9e3758d508300"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/search.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/search.png",
+    "sha256": "ce630e0b5bdefa35acd10c4381044baf85b13a9dfba3bce49c0dadbb573ef64f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/select-key_choose.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/select-key_choose.png",
+    "sha256": "428ef5683fcf64bf6e8bb251b77d07395eb1743e78412a4cc17b43d25e7a4f9f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/select-key_unselected.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/select-key_unselected.png",
+    "sha256": "dc3b11ad8467a39dc558e8cb28c6a450fe2f4df8ac796a951a56923fbe5c7b8c"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/setting.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/setting.png",
+    "sha256": "a90fff0ef3541f929e6f4297f63c561d7e6733b68228a265b90c0ed5455c9241"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/titlebg_blue.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/titlebg_blue.png",
+    "sha256": "22063bf1c86c66b83a2f51c0cb906d409e34b963fcf056c8d29e3e28e57d8d1f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/titlebg_gray.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/titlebg_gray.png",
+    "sha256": "f31298979b7a2272639702d330a6584f2762b3865e9282916bcfb9b796b4b2ab"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/topic_box_bottom(wide).png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/topic_box_bottom(wide).png",
+    "sha256": "859270703b42ceadd426d0b69782ee6211951fa218b7358c99073dadae28d3fd"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/topic_box_bottom.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/topic_box_bottom.png",
+    "sha256": "dbd8ac959fa9a7142507cf175c09f8c5681c584c734cba0369b5ef716acc3896"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/topic_box_central(wide).png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/topic_box_central(wide).png",
+    "sha256": "d9a9aa5ad53b44763e18530e24421353428514338df2af5ad03ae8de1153d785"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/topic_box_central.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/topic_box_central.png",
+    "sha256": "e248ac2fe4c93922781db329693d03fa5fc1516f58e7189b874db872fb12dea2"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/topic_box_top(wide).png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/topic_box_top(wide).png",
+    "sha256": "cf4f20f08b49980c29731073a9e4cdf0a7d1ccb219b186b7b1d77b8430df9d66"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/topic_box_top.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/topic_box_top.png",
+    "sha256": "c625f7ffed5b4fcdd6a1108b7e00293f977f3127fac2bc04bda5028da7849326"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/x.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/x.png",
+    "sha256": "b81293ad871a38f6ceee3a1d36aab422b5b0d3dc82424a5ebe89a1e9a696c4d9"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/sound/msgcome.wav",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/sound/msgcome.wav",
+    "sha256": "02e58cd564f553b803d52a340ce59cee90e3d622ccdef283ac40ee25a8bd7e99"
+  },
+  {
+    "path": "usr/share/applications/weibomm_harmattan.desktop",
+    "mode": 420,
+    "source": "weibomm_harmattan.desktop",
+    "sha256": "01ad6554b9b20f4722451436c1f42eed804fb62191a6b7d412266d11b2ec88cb"
+  },
+  {
+    "path": "usr/share/doc/weibomm/changelog.gz",
+    "mode": 420,
+    "source": "packaging/runtime/usr/share/doc/weibomm/changelog.gz",
+    "sha256": "a1e67ec879af7a093dd446639aafd90b278797f6d33be1411fc609d837a59e00"
+  },
+  {
+    "path": "usr/share/doc/weibomm/copyright",
+    "mode": 420,
+    "source": "packaging/runtime/usr/share/doc/weibomm/copyright",
+    "sha256": "dd9a197c4919c658bebd8903bf8a81ab0a4b9284f727efdaef83194c92b13aff"
+  },
+  {
+    "path": "usr/share/icons/hicolor/80x80/apps/weibomm80.png",
+    "mode": 420,
+    "source": "packaging/runtime/usr/share/icons/hicolor/80x80/apps/weibomm80.png",
+    "sha256": "3c21d3202ed52c2a2d60f0ee66a5bf58e07fc70156f5c05d1f0d01654cf43743"
+  },
+  {
+    "path": "usr/share/meegotouch/notifications/eventtypes/weibomm.conf",
+    "mode": 420,
+    "source": "packaging/runtime/usr/share/meegotouch/notifications/eventtypes/weibomm.conf",
+    "sha256": "3cd128e420bd04cf7bf8f465e2f5e4f699752f2f8027daf428d88ba5722cc017"
+  },
+  {
+    "path": "opt/weibomm/bin/weibomm-tls",
+    "mode": 493,
+    "source": "build/weibomm-tls",
+    "sha256": "bb91fb97f716857506102f0813d1493bd0cf18955fa85396b6266b048fa3082f"
+  },
+  {
+    "path": "opt/weibomm/bin/cacert.pem",
+    "mode": 420,
+    "source": "packaging/runtime/opt/weibomm/bin/cacert.pem",
+    "sha256": "796f1389bfea13c0ed78f663b765baaff54a508e5483786bd6ece73c5e3e3cbe"
+  },
+  {
+    "path": "usr/share/doc/weibomm/mbedtls-LICENSE",
+    "mode": 420,
+    "source": "packaging/runtime/usr/share/doc/weibomm/mbedtls-LICENSE",
+    "sha256": "9b405ef4c89342f5eae1dd828882f931747f71001cfba7d114801039b52ad09b"
+  },
+  {
+    "path": "usr/share/doc/weibomm/tls-test-notes.txt",
+    "mode": 420,
+    "source": "packaging/runtime/usr/share/doc/weibomm/tls-test-notes.txt",
+    "sha256": "85da09a8147281c0bdedb1b14460292a70f2ad3194fad0a80ce4d29e716f5b43"
+  },
+  {
+    "path": "opt/weibomm/misc/verification.html",
+    "mode": 420,
+    "source": "misc/verification.html",
+    "sha256": "2d6066ebd53942296e0a3f6b7fa2044a74c33e396f24d993181a45139e4a1e6e"
+  },
+  {
+    "path": "opt/weibomm/misc/core-js.min.js",
+    "mode": 420,
+    "source": "packaging/runtime/opt/weibomm/misc/core-js.min.js",
+    "sha256": "cb7978deffebe67c8a773c9a6550e0e5f6ef8db2ad89f61be583f2c4e0284947"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/VerificationView.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/VerificationView.qml",
+    "sha256": "9d6dca6fa5f2ad7b4c466f8089540684dd5181c8bebc1824bb9a768293c13e8a"
+  },
+  {
+    "path": "usr/share/doc/weibomm/core-js-LICENSE",
+    "mode": 420,
+    "source": "packaging/runtime/usr/share/doc/weibomm/core-js-LICENSE",
+    "sha256": "4003e24135fde907d7069bb73aad64092cfe662b26914296f2f7f1e16e1f15a6"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SessionSyncView.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SessionSyncView.qml",
+    "sha256": "fba94f0182ae971d191269e2fff4b20eeb379e19298c99edc0f84c591f60ad00"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/TouchCalibrationView.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/TouchCalibrationView.qml",
+    "sha256": "08b53a3b2d3318a03c02753173e2b5b3089b81d8479ed9fd131dc044559a481a"
+  },
+  {
+    "path": "opt/weibomm/misc/touch-calibration.html",
+    "mode": 420,
+    "source": "misc/touch-calibration.html",
+    "sha256": "3ea1d9691cb71a6f870996f6de616bacb8880fa5c366480adfd5d0e43a79a372"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/TimeFormat.js",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/TimeFormat.js",
+    "sha256": "d480e5e02b0d5a57a48e0d1c29c09544d452517d33f32b1ffbd0cf3211a0c4f5"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/OptionRow.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/OptionRow.qml",
+    "sha256": "f54557e2ccaff0d7759b156917a6753313c843dd67eb53b9c56b49c0373cf002"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/option-gear.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/option-gear.svg",
+    "sha256": "0e272c4e4d999270aa4e3f3c5525057427b61a88d30c4a2668e146f40a4c8b00"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/option-account.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/option-account.svg",
+    "sha256": "35ef1d46ab1630a584594abf008e2b5dbfbd1260e24e9fa8a0cc97d3eb775a97"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/option-about.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/option-about.svg",
+    "sha256": "2d7fcef563111d8805df01465a02c61de1b309feda9e4da01613326bb8e78256"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/option-text.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/option-text.svg",
+    "sha256": "11cc9d71ead39332286af81b94b1d7bf114c3417a1f0b568bd2ca5b7c003090b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/option-image.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/option-image.svg",
+    "sha256": "961c4733fed00676b02d556ed3886c46bfb74704b82ac829d38ff8c65f139f15"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/option-comment.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/option-comment.svg",
+    "sha256": "2a4a4e42aec6587fdac5f123a2e635f39a4345ca13b000cd1ab8d98fbc6f7674"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/option-audio.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/option-audio.svg",
+    "sha256": "005eb6ee2f9e99905917e1eaa81c77ca76d69e8a65bb5b22ec077c58782f3b8c"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/RefreshPulse.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/RefreshPulse.qml",
+    "sha256": "64280cb97915486092d7d1dd95917c5a9c2a0f9f84a08a7fbeced068ba712b85"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/ZoomPhoto.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/ZoomPhoto.qml",
+    "sha256": "b79528f169677033b43bfb768e350ff22398ac172f48b31c0eade597bcc19cba"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/SessionFilePicker.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/SessionFilePicker.qml",
+    "sha256": "533ee4c9fa0f1a071c62d40e0a7615d7716aad536ead1eac4d8b95f0f9c3a0c0"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/AuxiliaryLoginView.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/AuxiliaryLoginView.qml",
+    "sha256": "289780ed3d30a1e0466a132bf7182215a905239700109c23421f638e477ea3c7"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/app_icon.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/app_icon.png",
+    "sha256": "3c21d3202ed52c2a2d60f0ee66a5bf58e07fc70156f5c05d1f0d01654cf43743"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/BoundedPhoto.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/BoundedPhoto.qml",
+    "sha256": "0c9309d84c563027e24a2087ab2dfc3f0bd95dfdca431528e822325cea5ea819"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/StatusActions.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/StatusActions.qml",
+    "sha256": "945eae30c5a20ba14e22583c49bd46ae494376b2dc38045cced2f3506795eda2"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/like.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/like.svg",
+    "sha256": "15c7d73ce01ec029066709cf5840ab480f35481f1e648ba165b3ac19fe506667"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_search_v2.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_search_v2.png",
+    "sha256": "ea04768443e9f347a32ca8c651f27713cfe9bbeb40e2f485b1559fa2138630c5"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/switch-pale.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/switch-pale.svg",
+    "sha256": "82a8ae419288389291af8f2ba0fd58c1e8a385d20fb032db7ea66e752928ac86"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/account-manage.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/account-manage.svg",
+    "sha256": "2eb6438472f3758a5f6d8c29cdf54a0d7b34c320798e63e7d2b050ade69cc4e3"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/button-pale.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/button-pale.svg",
+    "sha256": "51043684d377366b3c83e27b23c2f7b4ec1f0c38feb9293480ba0cb217688901"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/button-pale-pressed.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/button-pale-pressed.svg",
+    "sha256": "01256bdc87a8a4e9536e2045ce75eb59c0ac064b1d5026e944d2c9a77cc79a4a"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/ThemeSwitch.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/ThemeSwitch.qml",
+    "sha256": "21a184cf2d9f757a83b26d5d0d194f7638d9c5377032fc4debe34cf2f16ce1f0"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/MoreSettingsPage.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/MoreSettingsPage.qml",
+    "sha256": "bac804221b89205f08fafbf1af1548560daacfc751cdf5ae0b3f191e32d3d107"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/search.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/search.svg",
+    "sha256": "4dde9b5aafd1fadef61c497b024348cd950cc50a270ae394767f2e03931d09fc"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/more.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/more.svg",
+    "sha256": "625b52ac4a2e9478a8b1de80c8a11b069f291cbae161dd4ce7d6da77e341d2d6"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/ProfileTimeline.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/ProfileTimeline.qml",
+    "sha256": "f9d7a2a22047dbe75332cfd074f73bcba5e3b11195e9bd3458fecc051be8aa1b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/FlatActionButton.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/FlatActionButton.qml",
+    "sha256": "45a6f7a922519ec7c0c584d41a3950809eac77acd13089e0bebb53a57f2aace9"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/message-compose.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/message-compose.svg",
+    "sha256": "685e9e3d33a0f5aff08c725a1981ca8d3bd7e935ac88c3b1cd0387e69caa2a49"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/home.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/home.svg",
+    "sha256": "6dcbc04111e6dcb3ce2b0c81a4b3379e2ec54d0715e4a06f6ed2db509e66a10e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/user.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/user.svg",
+    "sha256": "e24f4fe80f3e4b14af5e1ab2972fad87eae3aa291d1c2cef9e40009ed7762b13"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/avatar-corners.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/avatar-corners.svg",
+    "sha256": "9cb7e91c32429b40cc53a41dcb63cc357135ca0533779541f27b6f8ee8f83d6c"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/avatar-corners-header.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/avatar-corners-header.svg",
+    "sha256": "880666b67dc6709f5384fefd24d0d1e2ab87030fd307e4e464615b18f8a3fe5e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/comment.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/comment.svg",
+    "sha256": "32f4e9b0531b93a410a7fbe8043bb680b9a5a9b968f54d66f55fa8296bf25f96"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/repost.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/repost.svg",
+    "sha256": "e497869eb9ca48beeb2745400c7ff656b818ea07fcdd631ff7dc3b2ee3f5781d"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/refresh.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/refresh.svg",
+    "sha256": "85744f7fee1eb8d71948d20914f15baf10b824c33c3bad98aedaccc051605b20"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/AppTheme.js",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/AppTheme.js",
+    "sha256": "19d68ce39edd778c1de68ace0edb2111b6c0a7190af4b2eb1d4c059bab233af9"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/AppInputStyle.qml",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/AppInputStyle.qml",
+    "sha256": "29148edded8e9d2c4bf3046f54f15a5bca4a2533a9fd7af68a8374f86547c1b9"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/comment.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/comment.svg",
+    "sha256": "4176d8b735dbe59478a63957f0e12c4aca1663a947a05eb48b0eec73793975c6"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/repost.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/repost.svg",
+    "sha256": "a431e956b0a51d656c2a9463e4810b579974e87327c02fac857694b5dbcca298"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/refresh.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/refresh.svg",
+    "sha256": "6697b7b98073635bd3f431abba19028314e56f3ea440ea40520689253e805a91"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/avatar-corners.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/avatar-corners.svg",
+    "sha256": "23606e5d7161fba1fa08766b9539d175f4e64c50b0bfb4c53873d27fc8d4dd3a"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/avatar-corners-header.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/avatar-corners-header.svg",
+    "sha256": "ee1049b3cc0fd32b50b8aa52ac5654cd54d55a25e560c564464af5fa82fdd7c6"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/message-compose.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/message-compose.svg",
+    "sha256": "a95d20a8f3c852de8c81e18f1874ac0f214fb6e59d671997932e6e62058790f6"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/home.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/home.svg",
+    "sha256": "8b4117e24bc0bcd48b02623949b66ce1628017387291524265240f17d1a8f147"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/user.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/user.svg",
+    "sha256": "6cac2cd832591034309d9dc8418383fd6f71ee4cb8ac52488a4009d665ddfd84"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/more.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/more.svg",
+    "sha256": "a24fbe09840476462bed1d8133bb237c2cc41085f8199f8efef56990e7cf5291"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/search.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/search.svg",
+    "sha256": "967b1bf3e8ae4967529a4444b1d388719664766b34f9f014715449b24048d28b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/account-manage.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/account-manage.svg",
+    "sha256": "031f0198532e6a38ba980b8a16c25f813708ce24c53e99f2a209fe7866a14a35"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/button-pale.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/button-pale.svg",
+    "sha256": "03fadb6ad363b0593151521769363195999d80a368d4296cdd0ece980e6f4512"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/button-pale-pressed.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/button-pale-pressed.svg",
+    "sha256": "883de02fd6b39166adec4e70e77339f40aac74a3e60669e22fb2b89115425a80"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/switch-pale.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/switch-pale.svg",
+    "sha256": "2c0be9882e67b8ee27a97993602294a620e9792c10fb5f1682d7e56b66e490e2"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/like.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/like.svg",
+    "sha256": "b24b3880d1e62d3aa4714c3cd284853ea9b0d52ef9bf1f7db13b1354f723b784"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/option-gear.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/option-gear.svg",
+    "sha256": "73e24f80140fc34624dd8218f49ed1ce53507891081023105eca3d544fd73945"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/option-account.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/option-account.svg",
+    "sha256": "8eebf2f66143d53802a6692e340c3bd081f7d74b8e093f02129fad7b9697e963"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/option-about.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/option-about.svg",
+    "sha256": "febb7c9395555d76df46a395104c2956cf413456ccbd2033fb5019d8e3e37048"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/option-text.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/option-text.svg",
+    "sha256": "3390f0c65ee70b86085fb03a0d6c03b586116f0b60c6796ebed68e3f5e0f6da5"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/option-image.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/option-image.svg",
+    "sha256": "c0e6ebb6986fbebeddd2eb5bda9c1e7bd7791212f19fcd7223566212eab2d8f3"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/option-comment.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/option-comment.svg",
+    "sha256": "b257c09efd332b1ac2a53f979bf69016dfff5ad876fbf36e0cc68db25d383507"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/option-audio.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/option-audio.svg",
+    "sha256": "c62ef46aadc94a99b10f9b90147314247ec9d4b7ca3a0af951b75880c4df7b23"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/option-night.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/option-night.svg",
+    "sha256": "4b68f6acfb9433b8c6013dce96784dd29012e61d2e1035633b5ada554d4f34d4"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/input.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/input.svg",
+    "sha256": "7d2bc9d517a2865a280484ed98ba7eed32c3ad5a541b541cba58671b54d61233"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/input-focus.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/input-focus.svg",
+    "sha256": "6fec8feed9a9ab3159e04e2797bbef1d0fd3e92c2b55b3035f55d913649d1be4"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/input-disabled.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/input-disabled.svg",
+    "sha256": "18d10bff838d17e19ce78472c4434a6ec9c71ea1162f5035c06d61fb7f3ad182"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/dark/input-error.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/dark/input-error.svg",
+    "sha256": "8ff3bda524e779d866a95df80ae5ecb8c72729eeb77ec65ff9bd52f7467a26e9"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/controls/icons/option-night.svg",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/controls/icons/option-night.svg",
+    "sha256": "a2ea92045cc0b7f9c5deaa229fea474fceef5ca3b5f2417eedf8d0cb229deaf1"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e000.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e000.png",
+    "sha256": "d47386eec28b3bb8361ec3ed787e1a6a8f87a0a74b8671afbc0f152e44fba0dc"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e001.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e001.png",
+    "sha256": "aa06d6d30f4d764a88f2f511c3a14ce048630916bf612633c958f4d9199a641f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e002.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e002.png",
+    "sha256": "b0b8a07bf1bba98e6210883c4db83f59f4e1cb746e88e99d69ff23dd413cbf92"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e003.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e003.png",
+    "sha256": "6365f1fc16fa4e0359ca5ef87ddb3215df2da6463628b747cdcf8e0546731cbc"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e004.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e004.png",
+    "sha256": "b67f92bb3db220bc56769e65f881d54e07cd574bdc610bdcc9e46a0ad1fd0c98"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e005.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e005.png",
+    "sha256": "4fba3d2b7ebda0c8948d2550b8846fb33e6d0991eba21e326954ab32f8efc972"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e006.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e006.png",
+    "sha256": "c62ec6c07143e5b17e71bd4f582f61d7b54c50791557dda4e5b25ed57856b6a4"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e007.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e007.png",
+    "sha256": "0a25d8d4d429799c9ddd0d2244510422d0db763bec916781af78147307235cb4"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e008.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e008.png",
+    "sha256": "e48a35aca25f626f16ce1e6bd23c470b5cc2707dce5f09fd2f55c3412728d6ca"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e009.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e009.png",
+    "sha256": "d2404380f93348f32df385bcd05a97d912f5a9bb5880e09da387787cf41e6a73"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e010.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e010.png",
+    "sha256": "fe88dab3d9e88cc190d763fa382baeb71083f9ee4c9dfb14293f728e28281321"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e011.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e011.png",
+    "sha256": "fa540bbc74e6986db5bacc28be0354a9e6fa64530cf04633340321a4cb8a3cbf"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e012.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e012.png",
+    "sha256": "6d39954cce2427abc1c5c645fd40f077eefed2f8d945a2157bfb574564fae67c"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e013.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e013.png",
+    "sha256": "7617f00339afa762929087cc2608f608a56e9bb6cf262e34e799440e190f94dc"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e014.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e014.png",
+    "sha256": "ce770be89707df8bf2a1cf69bfc2da4b34847b77031659a022f0bc9b14026e9d"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e015.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e015.png",
+    "sha256": "a0d9290ec3d196c798eb3642d6e6bee9b67cfdd4062cc9e104634aedfbbfda63"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e016.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e016.png",
+    "sha256": "90aad62885275d5187544c219e31e318d7a7cef35dbae46fcf7cd940cc6388d0"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e017.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e017.png",
+    "sha256": "445bc64330d16c08965dd9976c79963c5e12080a52f940c3cdb02cf5042cc199"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e018.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e018.png",
+    "sha256": "fd18c7b54a14f3ea9873027e9e0b7651fb2ebe1da1da2183f19233c5f19e7d07"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e019.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e019.png",
+    "sha256": "c45e237a991015d15ef35c29f2fa75bed26354180e33a2443c2910dd3c3b6d7a"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e020.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e020.png",
+    "sha256": "6c6438e839ce77832111d20f947678cee262c89b54c38672d71ed2766171c343"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e021.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e021.png",
+    "sha256": "b2dd42860b6d4f37226b7ca792e7482e50f092ed2b61ad473afa34ca65784e5d"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e022.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e022.png",
+    "sha256": "7136b55604420a1953fde9ade5e5446ea8d8e746e188e53a7349cd4996d8fd36"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e023.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e023.png",
+    "sha256": "34f9ff1ae1587d32f77f630d7c6be4e514942a67b89532040040d4c477fb4172"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e024.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e024.png",
+    "sha256": "7be554c72d22b09b2cf7a65833704fb4aa0ef74647380c6d4e2fe92c10c590e3"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e025.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e025.png",
+    "sha256": "bc261e219e17ed11479f50f9a4119f1f3e33206dc69166374136fd674b83146c"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e026.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e026.png",
+    "sha256": "0f6090b7e489387386238d0ab84eba96e58774f2aee7e658e630ad951573bd9b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e027.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e027.png",
+    "sha256": "742caf3c19da38c53417315ed0d218336c26ef871810c796a76ba4457fc3f053"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e028.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e028.png",
+    "sha256": "e7db4b39d8b0fbe5b8147aaa7002f03d8d0f8281d46950f6df594de06c0b7304"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e029.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e029.png",
+    "sha256": "26defade84f4ea3d2c1dbb19e28e296d9a6fdc85a3ca7607abda12f019438e43"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e030.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e030.png",
+    "sha256": "df9313f02b97c48aba710edd1bea2174e6ea61d6c38c00ea75e04836e593560f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e031.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e031.png",
+    "sha256": "885ad3923539c2a725d9a452f02c58259108b4aac7c30e4fdca0996730fc1ff9"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e032.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e032.png",
+    "sha256": "03595ee760a4f03aa9c3532c9e011d9f021a12931873b618cb85e5432388ff11"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e033.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e033.png",
+    "sha256": "dddf2586c4393d4b1196e5e43b4c67d12b403f2a4baa1c8b34dbce249061e69a"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e034.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e034.png",
+    "sha256": "f07944df37f169bcb0295a12fe490464850f9b14eb1c231a52c9b51ca945adb1"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e035.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e035.png",
+    "sha256": "c188eb1a172ce0663826f33a7184b395c34debdb8715702ff8ef60d932587c79"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e036.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e036.png",
+    "sha256": "f9cf26632f5a00e59cb7d15beee6d522039e05445c3dae0b364f759b8c6c79d4"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e037.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e037.png",
+    "sha256": "a504c855f5086025fa8ffc16afb1dcf5184075447e626bff491c0a23c176aff6"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e038.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e038.png",
+    "sha256": "601e127540e36259fc4c046f81b0e20a813f8d9c69e3ee24babceeb124ca96b6"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e039.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e039.png",
+    "sha256": "ccfa26a738532bcd4426b646b199760fa304a73b22e95cf784ca8923a37e66fe"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e040.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e040.png",
+    "sha256": "fd56176900e88d58265fd357591f93333f67f5b9eec39831cccb8c354d2515b4"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e041.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e041.png",
+    "sha256": "c4e360ce1845852a65904aecd4edd1ce6813799a19899002c6609e899e8731d4"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e042.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e042.png",
+    "sha256": "ea57815ae4d9e8a5439d88bf3a7302154f1afe8f5ed59d26569086251fb678d9"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e043.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e043.png",
+    "sha256": "44ba11d1d44dd38576ec941d62a664abc5ff396c9f2b5cccc47f38eb7ba4644c"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e044.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e044.png",
+    "sha256": "95d39216a2ccf97c68ecea0a6431367141ca2ceb241994d3dbc5c8c13bea1ee5"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e045.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e045.png",
+    "sha256": "ef792f5b1d064ec863ce4b29b871e7b376e48eafbf3861d4a9fc2e87202b670f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e046.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e046.png",
+    "sha256": "2acd728898935de2dd8a715ffa464d15e25e1f2e15c02805992fc2fa67c75cbe"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e047.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e047.png",
+    "sha256": "9a047285c7e23e9f12873a5b3e9e3aac16e46fe6576244a7afd6e671d627b4a5"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e048.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e048.png",
+    "sha256": "f1ed993ebb8c0878819587ac54391757dcd7696efcdfbd3991d83fe78bcb1a5d"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e049.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e049.png",
+    "sha256": "f7c0d676e585ca9d1eb5b7917e2564043e345e752148fec6c88c13302564099b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e050.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e050.png",
+    "sha256": "d154f2c6e048227f1b383734cac01cac3c88c0ed81165678f2d10db2bbba16ce"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e051.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e051.png",
+    "sha256": "0c527d16d5a4d4dd8e8ea4faa351f3dcd7fcc5f8706660d34db0a72642636192"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e052.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e052.png",
+    "sha256": "57af23179f3fa0ff6d20bb21e36e983e78a087845f74048048044fedf3fbae9b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e053.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e053.png",
+    "sha256": "e4984b11639146c69bc30590deef6ba117057fbb1a0ffafe7d44bd953171f89e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e054.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e054.png",
+    "sha256": "e761a0d0557cde1ff8d9ccec9693ed1ff10e02530c5996c070e51f1494e71d45"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e055.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e055.png",
+    "sha256": "a75346f6eeac9209460ea1ab5424d3b6d0ccf00c345fe6e5ce2529aa9c88d99f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e056.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e056.png",
+    "sha256": "f84589414c51cb4d4aa7094a5dff1961317548b2e5da0b44aeb696c89cac20d0"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e057.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e057.png",
+    "sha256": "649562267c480155980e54499358692c5e834cc36e3f5699b05f652a6f2d51b9"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e058.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e058.png",
+    "sha256": "a23fc400c40607e361a6294dadcfc9b9e94bf5c745702155d7af29053be9a53f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e059.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e059.png",
+    "sha256": "0aa3c4f3827fac980142f8eab03879f3ff860b6eb815402678ff8ce4bdf146f3"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e060.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e060.png",
+    "sha256": "0f930c37a48c7815c60097a8f8b6054647ddd9cdfe364b496d6e95167a9d8e23"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e061.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e061.png",
+    "sha256": "e4856501d58a3bcb556e490c775446d3b1db5a3d01336735bff26aa434853146"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e062.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e062.png",
+    "sha256": "4157621ba6857b319c563daa24d1328c72730347b2873f5246dfe74566372881"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e063.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e063.png",
+    "sha256": "414b6514ebe1c52285e50bf4f23c5e29ad55c786269b162f54f97ddefc534e4f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e064.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e064.png",
+    "sha256": "a6159c5015d6603192aa62ab29c30af3be809abf3f53709d21509f95a2d1520c"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e065.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e065.png",
+    "sha256": "d1959284139068c48536d8721a06e5fd3d3ea61daf521331e4286abb1819a8bc"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e066.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e066.png",
+    "sha256": "2ad7a0b2d79c03ca2dc1905f714b86a6bfae9deb228a9b0848843bd191b6181c"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e067.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e067.png",
+    "sha256": "c1a774496f88b8fc2e456396e813e5538bbd106de2acf1741f4fd6d388033c2b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e068.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e068.png",
+    "sha256": "82edfd7aab224a855f0b2fb7363dfb954a79a650fb66e0ed027c6dd880933f4e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e069.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e069.png",
+    "sha256": "16fea456b099a1d918bc3d9fd495833bd4666ea790062dbb5df360cb193c5287"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e070.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e070.png",
+    "sha256": "9fcc42191b1511c2404dc5ca50dbb7109e0a1d384baa483157eac129c988655c"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e071.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e071.png",
+    "sha256": "4ce5dfae8bf9ea71a034e6abc79a7d1a3c281bfbba90382374093bec9b6cd705"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e072.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e072.png",
+    "sha256": "67a6ee14be7e09f325e09cef89541af46289ad3b41ec17618a0555173df0cd19"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e073.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e073.png",
+    "sha256": "e32ee855a36de51f97dc51611dfb20570938ab4618f0d7c951581d850bae06da"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e074.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e074.png",
+    "sha256": "fa9a4d2e90cea02fd630edae4a7ec5934937081c1931be6934428a9e4af2ff5b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e075.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e075.png",
+    "sha256": "d4ad375c388ccf1085fd6f86496f3b30eae0ad2c2cfa23512a1963f122ab4e92"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e076.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e076.png",
+    "sha256": "3e00a7e068834489a0432c865376f1a1df76b8dec798c292752b51d06e17a8cb"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e077.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e077.png",
+    "sha256": "a7133c8c9c04433379672503125beb1247d019aae39999eecd8b9ccb17b7a8c5"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e078.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e078.png",
+    "sha256": "3aecd8d442bf85e95e35e7246e8cb6eb16fbec735558129174029726dc99e9df"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e079.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e079.png",
+    "sha256": "af6b20542b8305547209b09d5c4949af77307b9af14e9d29318568a0333b7ef5"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e080.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e080.png",
+    "sha256": "300b8ea92290b1bfa8c17396cc3c84c19bf28fb1972b6c054dae692d6233be90"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e081.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e081.png",
+    "sha256": "990e6a4cd4aafe751e0ac33eb1b64e5337ecc76233b9a76230bc5569947c33b4"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e082.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e082.png",
+    "sha256": "1cd43b64f23c99d39cd765f6db1f62c3ba8f17b01e30b6b1032030910304b765"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e083.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e083.png",
+    "sha256": "3b876c96e73418deb01618cce863c1b9659fb3dbf7896371d85326a3aab74628"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e084.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e084.png",
+    "sha256": "b9e11164e2134ec3972dcab7d5b6edaf4a8868c2fcc543eb0b0449c443206c04"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e085.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e085.png",
+    "sha256": "d3ede1cea865c32501c74dba53917dcb9a55b710eebe0ed1387b4a0698fae21d"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e086.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e086.png",
+    "sha256": "409b00ca410a1cb6762c15be2a9293b6e802c7b4b28dfb8af977dc854b74433b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e087.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e087.png",
+    "sha256": "d6f6e0d84173ca7c91e46272c9283672a49778a4b323275b10e3b176d29f02ff"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e088.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e088.png",
+    "sha256": "80178ea660a2d106a347050b0ae13f00504867504a30170488e0d4efab6a721f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e089.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e089.png",
+    "sha256": "b65345d5bfc2ef724820d7289960d6fa432557fce13e67db7d05ce6c0d7040ed"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e090.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e090.png",
+    "sha256": "51da7a49e37f98ec43a04555c5432aa75e86d9f868d250b41cd9c1d07ffb5d46"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e091.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e091.png",
+    "sha256": "8fd3b7afdcc9b55a2e02cd38c09c87a8d2af2c5bbc8c91ca70c59f03072e1513"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e092.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e092.png",
+    "sha256": "02148f834c0ffef71cef472a75659beb63788a97cb3d6ba4f55c42d9d66e7470"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e093.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e093.png",
+    "sha256": "584e7f4ca159570bb5674a60a4a81f22eda4b320c126eac16ee39862216e6b61"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e094.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e094.png",
+    "sha256": "81d2dfedf65b5e4e2b849cfc53713011a6c797a9c1e585ba9d53fb02ff3f6d64"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e095.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e095.png",
+    "sha256": "20aa1d4ef8c65719bec319c307bc5213ba21613ad9ff51c0f47276e501d69e6c"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e096.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e096.png",
+    "sha256": "e759ad740d81e4de22b84a44fb9781dbcd7226cbc20d1dae0c44d2adb156f428"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e097.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e097.png",
+    "sha256": "d2c7afdf2bdb60dd5f4be0e2c946e173e4f15a4cb31bbcd95bf53479c680e006"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e098.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e098.png",
+    "sha256": "a04540b8d378d598ea163495d047d19393914e883d784fc43d9815cff6ad1655"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e099.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e099.png",
+    "sha256": "777abd88fdae090c4cbbb6289a821f8d5bbbe0875c9fbbef63b7dcb34fcffa54"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e100.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e100.png",
+    "sha256": "3dd1d90055605836989bb79d04b2e85d210cb7291921dc74a2e5b02d14da7baf"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e101.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e101.png",
+    "sha256": "c7519783f8f426208339c174a767371d21b4cba4d9fb8069103eaa5edf62a933"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e102.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e102.png",
+    "sha256": "66529c3a701380eb3c9711ed2a1404c4c671cf29f04c0b8f9f52e6c9dac09559"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e103.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e103.png",
+    "sha256": "eb0b6b5720d32d8f301187b419a5aac7f6f156411034a32dc08c16765ba9d801"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e104.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e104.png",
+    "sha256": "65cedf6bf05bb853a4e2a0395259c8778969992172bc946720a06a4e48f4e97e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e105.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e105.png",
+    "sha256": "6517279155a45ee50d67486761a6a578aa4feb0036bdae2e75b21a3a6f4ac475"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e106.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e106.png",
+    "sha256": "14e3ad78cc292eaa7bf0dc6ee46e3d58b5adc1aea1dfd0ef9f2f0cf58aacf5e9"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e107.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e107.png",
+    "sha256": "c1cc433cc46d11cd9753ae78cbf5026f91fc752a0523b1f6fb3aadabc3f193a8"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e108.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e108.png",
+    "sha256": "b5ed2811455e581e8155b92a3450d692d056fb762a17a6e44c26c58c2fd78d7d"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e109.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e109.png",
+    "sha256": "d8795ac57df6633a357d74e3706d9b6b4d492d0a63ee6f9e535b054c5e06b078"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e110.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e110.png",
+    "sha256": "fc10a6b0b763450b62c649dd11edc0d7b08ac7b35d6f825dcbf27e59cb180852"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e111.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e111.png",
+    "sha256": "8e3bfc76d6d2d189d8010908463c30f179b6147480066a887e4563a72b787085"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e112.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e112.png",
+    "sha256": "dac572054c592608b9475c9b7d8c473d9a762aff17620451adcb1f1e0d454969"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e113.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e113.png",
+    "sha256": "bda4d5d9da22ca6eb8e58cd604283b8114c7c2ff11ab42e4860810eea8648af5"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e114.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e114.png",
+    "sha256": "7531c795e5e397c392833e698734038861ab2e3cf4892de4b9fbfb1446721772"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e115.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e115.png",
+    "sha256": "2991c43f64f0124b82ef38e132a5bec7957fa018b7964ab4e233fca6017affe0"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e116.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e116.png",
+    "sha256": "f07e9145568d2b401e0b46138e6334da328300c8ea63313788c3c599e5a69d2b"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e117.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e117.png",
+    "sha256": "1789925bf049e65b3ec57bc5eefabfd9e0f06f76926a3e706f256c2179bb55d5"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e118.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e118.png",
+    "sha256": "9d82682c8c1f87324d5f96db852960ee256a493e98d891aa25731d6912476f2f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e119.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e119.png",
+    "sha256": "6727915c237a6ecc5511ba871d6ff22f653ca708fc9a887ca91a3056b1ba9d51"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e120.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e120.png",
+    "sha256": "6df32c9a8f9e1ed7d6c9dd11e9a94d13355be0180cda9d26e47334a00dd01387"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e121.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e121.png",
+    "sha256": "ce659aeca132153b663ecc709bfd3cd2acec0e25cc23a54b0217a88225c3315f"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e122.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e122.png",
+    "sha256": "be0f07448aa96b5c1c01bf163f55d459f0caaba09677f48ae63110685256b9df"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e123.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e123.png",
+    "sha256": "3b6d882949a0e3b6647dde118b1ddfeca9aac68f53b3fc69fd25cdba8ab59ac2"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e124.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e124.png",
+    "sha256": "603f7c371f2ab9fb61ae1c4b696756d2e21947114aa333f2c20ad0d4380cc35d"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e125.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e125.png",
+    "sha256": "424e6aa3bce8968f1f64032278be5028f128f169e524271d1bfe005b88c4dd3e"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/e126.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/e126.png",
+    "sha256": "0282a469a1712444e133c8f6ec78f8d6b466b65a87fd58100e76a770a86588c9"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/emotion_v2/manifest.json",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/emotion_v2/manifest.json",
+    "sha256": "7e0dc44d11b1aa55a48f8a865a087e7d5c2052855c44d6354957f009cd56c7cd"
+  },
+  {
+    "path": "opt/weibomm/qml/SinaWeiboClient/images/icon_search.png",
+    "mode": 420,
+    "source": "qml/SinaWeiboClient/images/icon_search.png",
+    "sha256": "ea04768443e9f347a32ca8c651f27713cfe9bbeb40e2f485b1559fa2138630c5"
+  }
+]
