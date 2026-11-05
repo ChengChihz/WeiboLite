@@ -1,4 +1,4 @@
-<img src="docs/app-icon.png" width="80" height="80" alt="微博Lite 图标">
+<img src="icon.png" width="80" height="80" alt="微博Lite 图标">
 
 # 微博Lite · WeiboLite
 
